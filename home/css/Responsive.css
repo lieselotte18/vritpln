@@ -1,0 +1,158 @@
+@media only screen and (max-width :922px) {
+    #cari p {
+        font-size: 18px;
+        width: 90%;
+    }
+
+    .input-cari .button-secondary {
+        width: 120px;
+    }
+
+    .button-fitur {
+        width: 100%;
+    }
+
+    #kontak h3 {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    .button-primary {
+        display: block;
+        width: 100%;
+    }
+
+    .button-secondary {
+        display: block;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width : 576px) {
+    .hero-tagline h1 {
+        line-height: 52px;
+    }
+
+    .image-hero {
+        height: 75%;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    .sub-title {
+        font-size: 16px;
+    }
+
+    .card {
+        margin: 15px 0;
+    }
+
+    #cari h2 {
+        font-size: 42px;
+    }
+
+    .input-cari .button-secondary {
+        width: 50%;
+        height: 60px;
+    }
+
+    .input-cari .button-primary {
+        height: 60px;
+        width: 30%;
+        font-size: 20px;
+    }
+
+    .card-contact {
+        padding: 45px 15px ;
+        height: auto;
+    }
+    
+
+}
+
+@media only screen and  (max-width : 300px) {
+    .hero-tagline h1 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .hero-tagline p {
+        font-size: .8rem;
+        line-height: 20px;
+    }
+
+    .image-hero {
+        height: 50%;
+    }
+
+    #cari h2 {
+        font-size: 30px;
+    }
+
+    #cari p {
+        font-size: 16px;
+        width: 100%;
+    }
+}
+/* 
+@media only screen and (min-width : 320px) {
+    .hero-tagline h1 {
+        color: black;
+    }
+} */
+
+@media (max-width: 768px) {
+    #modul {
+        padding: 80px 0; /* Sesuaikan padding-top untuk layar kecil */
+    }
+
+    .module-card h3 {
+        font-size: 20px;
+    }
+
+    .module-card p {
+        font-size: 14px;
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #visi-misi {
+        padding: 40px 0; /* Mengurangi padding di perangkat kecil */
+    }
+}
+
+/* Responsif */
+@media (max-width: 768px) {
+    .info-box {
+        flex-direction: column;
+        text-align: center;
+        padding: 20px; /* Padding disesuaikan untuk tampilan kecil */
+    }
+
+    .info-img {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .info-content {
+        width: 100%;
+    }
+}
+
+/* Responsive untuk fasilitas di menu pendidikan */
+@media (max-width: 768px) {
+    .fasilitas-item {
+        width: 45%;
+    }
+}
+
+@media (max-width: 576px) {
+    .fasilitas-item {
+        width: 100%; /* Pada layar kecil, setiap fasilitas memenuhi satu baris */
+    }
+}
+
