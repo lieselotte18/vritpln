@@ -76,59 +76,54 @@
             </div>
         </nav>
 
-        <!-- Content Section -->
+      <!-- Content Section -->
         <section id="modul">
             <div class="container">
                 <h2>Modul Ajar Lab VR ITPLN</h2>
                 <div class="modul-container">
                     <!-- Modul 1 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/1prwq5at6pJA1IgJMnpiGrykFVLm4RoVB?hl=ID', '_blank');">
                         <h3>Modul 1</h3>
-                        <p>Pengenalan VR & Konsep Dasar</p>
+                        <p>Pengenalan Augmented Reality</p>
                     </div>
                     <!-- Modul 2 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/1mG92TPtySw9JWSG4uSoiTZ2chBvDu6ct?hl=ID', '_blank');">
                         <h3>Modul 2</h3>
-                        <p>Simulasi VR dengan Unity</p>
+                        <p>Instalasi Unity</p>
                     </div>
                     <!-- Modul 3 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/19tdoe3kd4QBqhAig6UPkO_1VirOdRwnP?hl=ID', '_blank');">
                         <h3>Modul 3</h3>
-                        <p>Pengembangan Konten VR</p>
+                        <p>Pengenalan Unity</p>
                     </div>
                     <!-- Modul 4 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/1dEPrLybsCe3auf3yZ9ponmPh8GgvRi1x?hl=ID', '_blank');">
                         <h3>Modul 4</h3>
-                        <p>Interaktivitas dalam VR</p>
+                        <p>Membuat Aplikasi Augmented Reality Sederhana</p>
                     </div>
                     <!-- Modul 5 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/1FnINXL01DmdsUn3SBGJxYhlXC3IGxf54?hl=ID', '_blank');">
                         <h3>Modul 5</h3>
-                        <p>Pemrograman VR dengan C#</p>
+                        <p>Membangun Aplikasi(.APK)</p>
                     </div>
                     <!-- Modul 6 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/19NU4XpBRQNs5mIkLUyyoRgk6YVz-NBgO?hl=ID', '_blank');">
                         <h3>Modul 6</h3>
-                        <p>Rendering dan Performance Optimisation</p>
+                        <p>Aplikasi Augmented Reality Menggunakan Rotasi Object 3D</p>
                     </div>
                     <!-- Modul 7 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/13TVoOGrJpXVVbGDRfJWEFdpmc4KaoTeP?hl=ID', '_blank');">
                         <h3>Modul 7</h3>
-                        <p>Desain User Experience (UX)  dalam VR</p>
+                        <p>Augmented Reality Menggunakan Translasi Object 3DTranslasi Object 3D</p>
                     </div>
                     <!-- Modul 8 -->
-                    <div class="modul-item" onclick="location.href='#';">
+                    <div class="modul-item" onclick="window.open('https://drive.google.com/drive/u/3/folders/1xO9newGfhh-URtPrHcCYYXowUGI5wlu8?hl=ID', '_blank');">
                         <h3>Modul 8</h3>
-                        <p>Sound Design dan  Audio  Immersive  dalam VR</p>
-                    </div>
-                    <!-- Modul 9 -->
-                    <div class="modul-item" onclick="location.href='#';">
-                        <h3>Modul 9</h3>
-                        <p>VR  untuk  Bidang  Spesifik</p>
+                        <p>Aplikasi Augmented Reality Dengan Marker Cuboid</p>
                     </div>
                 </div>
             </div>
-        </section>
+        </section>>
         
         <!-- Footer -->
 <footer>
